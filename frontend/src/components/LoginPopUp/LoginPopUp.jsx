@@ -1,12 +1,12 @@
 import React from 'react'
-import './LoginPopUp.css'
+import './LoginPopup.css'
 
-const LoginPopUp = () => {
-  return (
-    <div className='login-popup'>
-        
-    </div>
-  )
+const LoginPopup = () => {
+    return (
+        <div className='login-popup'>
+            login
+        </div>
+    )
 }
 
-export default LoginPopUp
+export default LoginPopup
